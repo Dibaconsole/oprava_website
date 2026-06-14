@@ -26,23 +26,23 @@ export default function Home() {
           <Nav />
           <main>
             <Hero />
-          <TrustStrip />
-          <Credibility />
-          <Problem />
-          <WhyNow />
-          <Solution />
-          <Product />
-          <Ontology />
-          <UseCases />
-          <Comparison />
-          <PE />
-          <CredStrip />
-          <HowWorks />
-          <Pilot />
-          <CTA />
-        </main>
-        <Footer />
-      </> 
+            <TrustStrip />
+            <Credibility />
+            <Problem />
+            <WhyNow />
+            <Solution />
+            <Product />
+            <Ontology />
+            <UseCases />
+            <Comparison />
+            <PE />
+            <CredStrip />
+            <HowWorks />
+            <Pilot />
+            <CTA />
+          </main> 
+          <Footer />
+        </>
       </ChatProvider>
     </GuideProvider>
   );

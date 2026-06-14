@@ -19,7 +19,7 @@ export default function PE() {
   return (
     <section id="pe">
       <div className="wrap">
-        <Reveal><div className="eyebrow on-dark"><span className="num">07</span><span className="ln" style={{color:'var(--d-dim)'}} /><span className="lbl">For Private Equity</span></div></Reveal>
+        <Reveal><div className="eyebrow on-dark"><span className="num">08</span><span className="ln" style={{color:'var(--d-dim)'}} /><span className="lbl">For Private Equity</span></div></Reveal>
         <Reveal><h2 className="head">For PE firms, value creation depends on execution speed.</h2></Reveal>
         <Reveal><p className="lead on-dark">Portfolio companies don&apos;t miss value creation plans because the strategy is wrong. They miss because execution friction compounds faster than leadership can see it.</p></Reveal>
 

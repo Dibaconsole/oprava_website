@@ -14,7 +14,7 @@ export default function Comparison() {
   return (
     <section id="comparison">
       <div className="wrap">
-        <Reveal><div className="eyebrow"><span className="num">06</span><span className="ln" /><span className="lbl">Differentiation</span></div></Reveal>
+        <Reveal><div className="eyebrow"><span className="num">07</span><span className="ln" /><span className="lbl">Differentiation</span></div></Reveal>
         <Reveal><h2 className="head">Not engagement. Not sentiment. Execution risk intelligence.</h2></Reveal>
         <Reveal><p className="lead">Oprava is a new category. It is not an HR survey, a BI dashboard, or an engagement tool. It is a continuous execution intelligence layer for CEOs, PE operating partners, and boards.</p></Reveal>
 

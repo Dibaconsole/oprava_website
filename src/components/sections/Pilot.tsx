@@ -38,7 +38,7 @@ export default function Pilot() {
   return (
     <section id="pilot">
       <div className="wrap">
-        <Reveal><div className="eyebrow"><span className="num">08</span><span className="ln" /><span className="lbl">Get Started</span></div></Reveal>
+        <Reveal><div className="eyebrow"><span className="num">10</span><span className="ln" /><span className="lbl">Get Started</span></div></Reveal>
         <Reveal><h2 className="head">Run a 30-Day Execution Diagnostic.</h2></Reveal>
         <Reveal><p className="lead">Use a focused Oprava diagnostic to identify hidden execution friction, quantify risk, and prioritize the operating issues most likely to affect performance. Structured, evidence-based, and executive-ready in 30 days.</p></Reveal>
 

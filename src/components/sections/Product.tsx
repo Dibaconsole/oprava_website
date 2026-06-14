@@ -5,7 +5,7 @@ export default function Product() {
   return (
     <section id="product">
       <div className="wrap">
-        <Reveal><div className="eyebrow on-dark"><span className="num">03</span><span className="ln" style={{color:'var(--d-dim)'}} /><span className="lbl">The Product</span></div></Reveal>
+        <Reveal><div className="eyebrow on-dark"><span className="num">04</span><span className="ln" style={{color:'var(--d-dim)'}} /><span className="lbl">The Product</span></div></Reveal>
         <Reveal><h2 className="head">A new operating language for organizational performance.</h2></Reveal>
         <Reveal><p className="lead on-dark">Three proprietary metrics: Organizational Health Score, Execution Friction Index, and EBITDA at Risk, alongside diagnostic views no other platform provides. Oprava gives leadership teams a common language for health, friction, risk, and intervention priority.</p></Reveal>
 

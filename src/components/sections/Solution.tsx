@@ -28,7 +28,7 @@ export default function Solution() {
   return (
     <section id="solution">
       <div className="wrap">
-        <Reveal><div className="eyebrow"><span className="num">10</span><span className="ln" /><span className="lbl">The Platform</span></div></Reveal>
+        <Reveal><div className="eyebrow"><span className="num">03</span><span className="ln" /><span className="lbl">The Platform</span></div></Reveal>
         <Reveal><h2 className="head">Oprava turns operating signals into measurable execution risk intelligence.</h2></Reveal>
         <Reveal><p className="lead">Oprava connects organizational signals across systems, teams, workflows, and leadership structures to identify where execution is slowing, why it is happening, and what it may cost.</p></Reveal>
         <div className="sol-steps">

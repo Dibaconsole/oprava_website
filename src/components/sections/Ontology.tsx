@@ -20,7 +20,7 @@ export default function Ontology() {
   return (
     <section id="ontology">
       <div className="wrap">
-        <Reveal><div className="eyebrow on-dark"><span className="num">04</span><span className="ln" style={{color:'var(--d-dim)'}} /><span className="lbl">Intelligence Architecture</span></div></Reveal>
+        <Reveal><div className="eyebrow on-dark"><span className="num">05</span><span className="ln" style={{color:'var(--d-dim)'}} /><span className="lbl">Intelligence Architecture</span></div></Reveal>
         <Reveal><h2 className="head">Built on a proprietary Organizational Health Ontology.</h2></Reveal>
         <Reveal><p className="lead on-dark">Oprava unifies organizational psychology, management science, systems theory, network science, and strategy execution research into a single scoring architecture that grows more intelligent over time.</p></Reveal>
         <Reveal><p className="onto-pull">The dashboard is the interface. <span>The ontology is the asset.</span></p></Reveal>

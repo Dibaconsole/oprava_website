@@ -20,7 +20,7 @@ export default function UseCases() {
   return (
     <section id="usecases">
       <div className="wrap">
-        <Reveal><div className="eyebrow"><span className="num">05</span><span className="ln" /><span className="lbl">Use Cases</span></div></Reveal>
+        <Reveal><div className="eyebrow"><span className="num">06</span><span className="ln" /><span className="lbl">Use Cases</span></div></Reveal>
         <Reveal><h2 className="head">Built for moments when execution risk matters most.</h2></Reveal>
         <Reveal><p className="lead">From PE portfolio monitoring to transformation execution, Oprava delivers execution risk visibility when organizational performance is under the highest pressure.</p></Reveal>
         <div className="uc-grid">
